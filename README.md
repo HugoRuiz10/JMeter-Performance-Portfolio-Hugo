@@ -43,7 +43,7 @@ El siguiente diagrama muestra cómo el login inicial genera un token que se reut
 
 1. Clonar este repositorio:  
    ```bash
-   (https://github.com/HugoRuiz10/JMeter-Performance-Portfolio-Hugo.git)
+   git clone https://github.com/HugoRuiz10/JMeter-Performance-Portfolio-Hugo.git
 ✍️ Autor: Hugo Ruiz
 📧 Contacto: hmruizhernandez@gmail.com
 🌐 LinkedIn: (https://www.linkedin.com/in/hugo-manuel-ruiz-hernandez-92861319a/)
