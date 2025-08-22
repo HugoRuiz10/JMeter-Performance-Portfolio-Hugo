@@ -1,7 +1,7 @@
 # Portafolio de Pruebas de Performance con JMeter 🚀
 
 Este repositorio contiene ejemplos prácticos de pruebas de **carga, estrés y rendimiento**
-realizados con **Apache JMeter**. El objetivo es mostrar un portafolio técnico con diferentes
+realizados con **JMeter**. El objetivo es mostrar un portafolio técnico con diferentes
 escenarios que simulan servicios de autenticación, consulta y actualización de datos.
 
 ---
