@@ -38,7 +38,7 @@ Los reportes completos de cada ejecución están disponibles en la carpeta `/res
 
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/JMeter-Performance-Portfolio-Hugo.git
+   (https://github.com/HugoRuiz10/JMeter-Performance-Portfolio-Hugo.git)
 ✍️ Autor: Hugo Ruiz
 📧 Contacto: hmruizhernandez@gmail.com
 🌐 LinkedIn: (https://www.linkedin.com/in/hugo-manuel-ruiz-hernandez-92861319a/)
