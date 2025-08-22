@@ -37,7 +37,7 @@ Los reportes completos de cada ejecución están disponibles en la carpeta `/res
 
 El siguiente diagrama muestra cómo el login inicial genera un token que se reutiliza en los demás servicios:
 
-![Flujo de Login y Token](../assets/flujo_login.png)
+![Flujo de Login y Token](assets/flujo_login.png)
 
 ## 🛠️ Cómo ejecutar los test plans
 
